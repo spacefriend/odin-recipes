@@ -1,0 +1,42 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:darkslategray;
+}
+
+h1 {
+    text-align:center;
+    color:midnightblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color:saddlebrown;
+}
+
+div {
+    background-color: rgb(235, 232, 229);
+    width: 800px;
+    height: auto;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+a {
+    color:darkslateblue;
+}
+
+a:visited {
+    color:goldenrod;
+}
+
+a, a:visited {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.recipe-img{
+    width: 500px;
+    height: auto;
+}
+
